@@ -22,7 +22,13 @@ x install nnd
 - **Latest**: `v0.80` (2026-07-09)
 - **Last commit**: 2026-07-09
 - **Assets in release**: 2
-- **Published**: 2026-07-09T00:19:58Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [nnd](https://github.com/al13n321/nnd/releases/download/v0.80/nnd) | 17.2 MiB | `other` |
+| [nnd-dbgo](https://github.com/al13n321/nnd/releases/download/v0.80/nnd-dbgo) | 130.4 MiB | `other` |
 
 ## Popularity
 
@@ -57,8 +63,8 @@ Total: **41,513** lines of code across **97** files in the top 5 languages.
 Install metadata for nnd lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `nnd` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/nnd.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/nnd.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:15:36Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:51:39Z._

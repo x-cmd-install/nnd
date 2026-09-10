@@ -4,7 +4,7 @@
 
 A debugger for Linux
 
-![nnd](https://repo.x-cmd.io/nnd.svg)
+![nnd](https://repo.x-cmd.io/nnd.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,13 @@ x install nnd
 - **最新版本**: `v0.80` (2026-07-09)
 - **最近提交**: 2026-07-09
 - **Release 含资产**: 2 个
-- **发布时间**: 2026-07-09T00:19:58Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [nnd](https://github.com/al13n321/nnd/releases/download/v0.80/nnd) | 17.2 MiB | `other` |
+| [nnd-dbgo](https://github.com/al13n321/nnd/releases/download/v0.80/nnd-dbgo) | 130.4 MiB | `other` |
 
 ## 流行度
 
@@ -61,4 +67,4 @@ nnd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:15:37Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:51:40Z._
