@@ -37,7 +37,7 @@ Total: **41,513** lines of code across **97** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,718 · **Forks**: 37 · **Open issues**: 57 · **Contributors**: 18
+- **Stars**: 1,717 · **Forks**: 37 · **Open issues**: 57 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **41,513** lines of code across **97** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-16 | 2 | 0 | 1 | 2 | 1 | 11 |
-| last180d | 2026-03-18 | 9 | 3 | 1 | 3 | 2 | 26 |
-| 360d | 2025-09-19 | 32 | 8 | 1 | 16 | 9 | 66 |
-| last720d | 2024-09-24 | 78 | 9 | 1 | 42 | 15 | 197 |
+| 30d | 2026-08-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-17 | 2 | 0 | 1 | 2 | 1 | 11 |
+| last180d | 2026-03-19 | 9 | 3 | 1 | 3 | 2 | 26 |
+| 360d | 2025-09-20 | 32 | 8 | 1 | 16 | 9 | 66 |
+| last720d | 2024-09-25 | 78 | 9 | 1 | 42 | 15 | 197 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for nnd lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:23:16Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:28:16Z._
