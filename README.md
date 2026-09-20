@@ -4,7 +4,7 @@
 
 A debugger for Linux
 
-![nnd](https://repo.x-cmd.io/nnd.svg)
+[![x-cmd/install — nnd Code Quality Monitoring Repo Card](https://repo.x-cmd.io/nnd.svg)](https://x-cmd.com/install/nnd)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **41,513** lines of code across **97** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 2 | 0 | 1 | 2 | 0 | 11 |
-| last180d | 2026-03-22 | 9 | 3 | 1 | 3 | 2 | 26 |
-| 360d | 2025-09-23 | 32 | 8 | 1 | 16 | 9 | 66 |
-| last720d | 2024-09-28 | 78 | 9 | 1 | 42 | 15 | 196 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 2 | 0 | 1 | 2 | 0 | 11 |
+| last180d | 2026-03-24 | 9 | 3 | 1 | 3 | 2 | 26 |
+| 360d | 2025-09-25 | 29 | 8 | 1 | 15 | 9 | 65 |
+| last720d | 2024-09-30 | 78 | 9 | 1 | 42 | 15 | 194 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for nnd lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:12:01Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:19:59Z._
