@@ -47,12 +47,12 @@ Total: **41,513** lines of code across **97** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-17 | 9 | 3 | 1 | 3 | 2 | 26 |
-| 360d | 2025-10-19 | 25 | 8 | 1 | 13 | 8 | 56 |
-| last720d | 2024-10-24 | 78 | 9 | 1 | 42 | 15 | 182 |
+| 30d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-18 | 9 | 3 | 1 | 3 | 2 | 0 |
+| 360d | 2025-10-20 | 24 | 8 | 1 | 13 | 8 | 0 |
+| last720d | 2024-10-25 | 78 | 9 | 1 | 42 | 15 | 182 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for nnd lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:13:45Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:55:11Z._
