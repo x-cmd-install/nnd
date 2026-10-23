@@ -37,7 +37,7 @@ x install nnd
 
 ## 流行度
 
-- **Star**: 1,730 · **Fork**: 39 · **开放 issue**: 58 · **贡献者**: 18
+- **Star**: 1,732 · **Fork**: 39 · **开放 issue**: 58 · **贡献者**: 18
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install nnd
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-04-25 | 9 | 2 | 1 | 3 | 3 | 21 |
-| 360d | 2025-10-27 | 22 | 7 | 1 | 13 | 9 | 55 |
-| last720d | 2024-11-01 | 78 | 9 | 1 | 42 | 16 | 176 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-04-26 | 9 | 2 | 1 | 3 | 3 | 21 |
+| 360d | 2025-10-28 | 22 | 7 | 1 | 13 | 9 | 55 |
+| last720d | 2024-11-02 | 78 | 9 | 1 | 42 | 16 | 176 |
 
 ## Release 资产
 
@@ -60,6 +60,14 @@ x install nnd
 |------|-----:|----------|
 | [nnd](https://github.com/al13n321/nnd/releases/download/v0.80/nnd) | 17.2 MiB | `other` |
 | [nnd-dbgo](https://github.com/al13n321/nnd/releases/download/v0.80/nnd-dbgo) | 130.4 MiB | `other` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/nnd) 上共有 **6** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `0.80` | ✅ latest |
 
 ## 改进这些数据
 
@@ -70,4 +78,4 @@ nnd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:10:04Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:13:33Z._
